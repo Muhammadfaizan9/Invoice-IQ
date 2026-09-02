@@ -1,1 +1,7 @@
 groq
+fastapi
+uvicorn[standard]
+pydantic-settings
+supabase
+python-multipart
+python-dotenv
